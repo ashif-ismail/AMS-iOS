@@ -1,0 +1,31 @@
+PODS:
+  - AppCenter/Core (3.1.1)
+  - AppCenter/Distribute (3.1.1):
+    - AppCenter/Core
+  - IQKeyboardManager (6.5.4)
+  - JGProgressHUD (2.1)
+  - SideMenu (5.0.3)
+
+DEPENDENCIES:
+  - AppCenter/Distribute
+  - IQKeyboardManager
+  - JGProgressHUD
+  - SideMenu (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - IQKeyboardManager
+    - JGProgressHUD
+    - SideMenu
+  trunk:
+    - AppCenter
+
+SPEC CHECKSUMS:
+  AppCenter: 513d32888854d67d8cfbd3a8db16aeb5fb2e2a75
+  IQKeyboardManager: 72b359cd7e777e3a984cedbe05f8da45320cbb63
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+
+PODFILE CHECKSUM: 94b3d1e73ef18a1e8228439c0b4ddc7008a76763
+
+COCOAPODS: 1.8.4
