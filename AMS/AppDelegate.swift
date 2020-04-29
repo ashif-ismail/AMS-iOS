@@ -8,8 +8,6 @@
 
 import UIKit
 import IQKeyboardManager
-import AppCenter
-import AppCenterDistribute
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
